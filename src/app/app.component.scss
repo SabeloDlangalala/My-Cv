@@ -1,0 +1,77 @@
+
+ 
+  table, td, th{
+  
+  margin: 0 auto;
+  border: 100px;
+  
+  }
+  th,td {
+    padding: 5px;
+    text-align: center;
+  
+  }
+  
+  h1{
+  text-align: center;
+  }
+  * {box-sizing: border-box}
+  
+  .container {
+    width: 100%;
+    background-color: #ddd;
+  }
+  
+  .skills {
+    text-align: right;
+    padding: 10px;
+    color: white;
+  }
+  
+  .Troubleshooting {width: 90%; background-color: #df8989;}
+  .Excellent  {width: 80%; background-color: #df8989;}
+  .Problem-solving  {width: 65%; background-color: #df8989;}
+  .Microsoft  {width: 80%; background-color: #df8989;}
+  
+  .flat {
+    background: #df8989;
+    padding: 5px;
+    position: sticky;
+    width: 400px;
+    margin-top: -160px;
+    z-index: -4;
+    
+  }
+  .profile {
+    margin: 0 auto;
+    max-width: 1000px;
+    position: relative;
+    margin-bottom: 100px; 
+  }
+  .image {
+    width: 150px;
+    height:150px;
+    margin-left: 70px; 
+    border-radius: 100%;
+  
+  }
+  .head-name {
+     float: right;
+     margin-right: 170px;
+     margin-left: -180px;
+  }
+  .line p {
+    margin-left: 170px;
+  }
+  .line {
+    padding: 1px;
+    background:  #df8989;
+    margin-top: -100px;
+    text-align: right;
+  }
+  .clear {
+    clear: both;
+  }
+
+
+ 
